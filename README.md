@@ -1,2 +1,2 @@
 # odin-recipes
-HTML project; Foundations Course
+HTML project will consist of a main index page which will have links to a few recipes; It is part of HTML Foundation of The Odin Project's Foundations Course. I expect myself to learn how to write basic code in HTML such as boilerplate, head, paragraphs and headings, lists, links and images. I will also learn ethics of writing good commit messages. I will be able to grasp the idea of when to commit.
