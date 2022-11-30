@@ -1,0 +1,17 @@
+* {
+    background-color: cornsilk;
+    color:black;
+    font-weight: bold;
+}
+
+.img-resize.chain{
+    height: auto;
+    width: 800px;
+}
+
+.img-resize.chains{
+    height: 500px;
+    width: auto;
+}
+
+    
